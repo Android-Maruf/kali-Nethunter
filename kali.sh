@@ -11,8 +11,8 @@ pkg install figlet
 clear
 sleep 1
 echo "$g Welcome to kali nethunter installation $y"
-toilet -f big -f mono12 -F border -F gay Install
-toilet -f big -f mono12 -F border -F gay kali
+toilet -f standard-F border -F gay Install
+toilet -f standard -F border -F gay kali
 sleep 4
 echo "$y Installing Kali nethunter....... $p"
 sleep 2
